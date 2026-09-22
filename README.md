@@ -18,7 +18,7 @@ It provides a clean interface for managing daily tasks with priorities, due date
 
 ## 🖼️ Screenshot
 
-> Screenshot coming soon.
+![Professional To-Do App](screenshots/todo-app.png)
 
 <!-- Replace the section above with the following after adding your screenshot:
 ![Professional To-Do App](screenshots/todo-app.png)
