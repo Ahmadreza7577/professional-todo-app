@@ -1,4 +1,6 @@
 # Professional To-Do App
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://ahmadreza7577.github.io/professional-todo-app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/Ahmadreza7577/professional-todo-app)
 
 A modern and responsive To-Do application built with **HTML, CSS, and Vanilla JavaScript**.
 It provides a clean interface for managing daily tasks with priorities, due dates, search, filtering, dark mode, and persistent local storage.
@@ -74,7 +76,11 @@ Your tasks are stored in the browser's **Local Storage**, which means your data 
 
 ## 🌐 Live Demo
 
-**Coming soon**
+🚀 **[View Live Demo](https://ahmadreza7577.github.io/professional-todo-app/)**
+
+## 📂 Repository
+
+💻 **[View Source Code on GitHub](https://github.com/Ahmadreza7577/professional-todo-app)**
 
 Once GitHub Pages is enabled:
 
